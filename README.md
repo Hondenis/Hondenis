@@ -1,16 +1,20 @@
-## Hi there 👋
+<h2>📝Sobre</h2>
 
-<!--
-**Hondenis/Hondenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Hondenis Santos, sou Engenheiro da computação formado pela Universidade Federal de Mato Grosso (UFMT). Sou desenvolvedor TS/C#, TypeOrm/Express e React. Atualmente estou desenvolvendo um jogo RPG 3D pela unity.
 
-Here are some ideas to get you started:
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Hondenis&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Hondenis&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hondenis&show_icons=true" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hondenis&layout=compact)
+
