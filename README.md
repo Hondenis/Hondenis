@@ -14,7 +14,4 @@ Meu nome é Hondenis Santos, sou Engenheiro da computação formado pela Univers
   <img src="https://github-readme-stats.vercel.app/api?username=Hondenis&show_icons=true" />
 </picture>
 
-Linguagens
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hondenis&layout=compact)
 
