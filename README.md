@@ -85,6 +85,16 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
+	<img src="./blender.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./unity.png" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
 </div>
 
 ### 💯 Extras
